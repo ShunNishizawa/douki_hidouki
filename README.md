@@ -14,3 +14,6 @@
 - よく起こる問題として「コールバック地獄」と「ネスト地獄」がある
 - 「成功時」と「失敗時」があることが多いため、エラーを意識してメソッドの設計する
 - ```throw```を使うとかね
+
+### 参考
+- [参照コード](https://dev.classmethod.jp/articles/sync-process-with-dispatch-semaphore/)
